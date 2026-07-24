@@ -129,7 +129,7 @@ Learning Outcome:
 
 ### Module 4: Project Development & Review
 
-#### Session 8 – Final Project, Revision & Showcase
+#### Practice YourSelf – Final Project, Revision & Showcase
 
 Topics Covered:
 
