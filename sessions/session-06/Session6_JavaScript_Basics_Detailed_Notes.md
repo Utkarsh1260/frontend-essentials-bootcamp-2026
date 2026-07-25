@@ -1,6 +1,5 @@
 # Session 6 – JavaScript Basics (Detailed Notes)
 
-> These notes are based on the provided Session 6 PDF and expand each topic with explanations and additional code examples for students. Source: fileciteturn0file0
 
 # Table of Contents
 
