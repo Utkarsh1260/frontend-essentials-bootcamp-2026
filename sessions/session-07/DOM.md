@@ -313,4 +313,3 @@ Try building these on your own using today's concepts:
 
 ---
 
-*Questions? Drop them in the Discord channel — see you in Session 8, where we'll build further on today's DOM & event-handling skills.*
