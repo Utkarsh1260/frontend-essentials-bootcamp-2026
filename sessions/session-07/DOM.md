@@ -1,8 +1,6 @@
 # Session 7 — JavaScript Interactivity & DOM Basics
 
-**Adore India · Frontend Development Bootcamp 2026**
-**Speaker:** Utkarsh Kushwaha
-**Duration:** 3 hours (incl. ~30 min doubt/discussion)
+
 
 ---
 
